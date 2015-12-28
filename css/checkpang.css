@@ -26,8 +26,6 @@ body, .panel {
 header {
   margin: 0 0 5px 0;
   padding: 0 0 0 0;
-  width: 100vw;
-  max-width: 100%;
   height: auto;
   padding-bottom: 2px;
   overflow-x: hidden;
@@ -48,9 +46,8 @@ a:hover, a:focus {
   color: #663300;
 }
 
-header span {
-  line-height: 1.5;
-  font-size: 1.5em;
+header div {
+  font-size: 1.2em;
   color: #FFF;
 }
 
